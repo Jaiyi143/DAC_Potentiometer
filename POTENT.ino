@@ -1,5 +1,5 @@
 /*======================================================
-             DIGITAL TO ANALOG OUTPUT (DAC)
+             Potentiometer
 ========================================================
 Description:
 This program reads an analog input from a potentiometer
